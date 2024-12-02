@@ -1,0 +1,14 @@
+/*buscador*/
+#listaArticulos{
+    font-size: 30px;
+    margin-top: 20px;
+    list-style: none;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .filtro{
+    display: none;
+  }
+  /*fin buscador*/
